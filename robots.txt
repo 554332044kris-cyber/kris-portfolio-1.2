@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://554332044kris-cyber.github.io/kris-portfolio/sitemap.xml
